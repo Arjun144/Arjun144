@@ -51,10 +51,10 @@ I enjoy solving business problems by combining **backend engineering, automation
 
 💬 **Ask Me About**
 
-* Python, FastAPI, and backend systems
+* Python, FastAPI, MCP, Celery and backend systems
 * AI Agents and LLM workflows
-* Workflow automation and APIs
-* ERP systems and internal tooling
+* Workflow automation and APIs, Webhooks
+* ERP systems, Staffing Interface and internal tooling
 
 
 # 💻 Tech Stack:
