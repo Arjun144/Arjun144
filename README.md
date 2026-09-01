@@ -8,9 +8,10 @@ Currently at **GreyB Services**, I design and scale backend systems supporting *
 
 My recent work involves building intelligent systems for:
 
-* Sentiment intelligence and critical feedback detection
-* Patent law validation workflows
-* Motivation-to-Combine reasoning systems
+* Sentiment intelligence and critical feedback detection.
+* Integrated various MCP tools for email red-flag detection.
+* Patent law validation workflows.
+* Motivation-to-Combine for 103 law Obviousness reasoning systems.
 * Claim Chart generation with confidence scoring
 * Document review and shipment validation
 
@@ -20,7 +21,7 @@ I enjoy solving business problems by combining **backend engineering, automation
 
 🔭 **Currently Working On**
 
-* Building backend automation systems using **Python, FastAPI, Celery, CakePHP, and MySQL**
+* Building backend automation systems using **Python, FastAPI, MCP Tools, Celery, CakePHP, and MySQL**
 * Designing AI agents using **self-hosted LLaMA models**
 * Automating enterprise workflows and client feedback pipelines
 * Optimizing analytics systems and internal dashboards
