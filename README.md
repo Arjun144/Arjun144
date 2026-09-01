@@ -20,7 +20,7 @@ I enjoy solving business problems by combining **backend engineering, automation
 
 🔭 **Currently Working On**
 
-* Building backend automation systems using **Python, FastAPI, PHP, and MySQL**
+* Building backend automation systems using **Python, FastAPI, Celery, CakePHP, and MySQL**
 * Designing AI agents using **self-hosted LLaMA models**
 * Automating enterprise workflows and client feedback pipelines
 * Optimizing analytics systems and internal dashboards
